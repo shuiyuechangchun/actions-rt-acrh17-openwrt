@@ -19,4 +19,4 @@
 #echo 'modify aliyundrive-webdav Makefile OK'
 git clone https://github.com/lxl6125/luci-app-adguardhome.git package/tanxg/luci-app-adguardhome
 git clone https://github.com/lxl6125/openwrt-qbittorrent-enhanced.git package/tanxg/openwrt-qbittorrent-enhanced
-svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
+svn co https://github.com/vernesong/OpenClash/tree/master/luci-app-openclash package/luci-app-openclash
